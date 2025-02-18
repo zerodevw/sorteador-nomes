@@ -1,4 +1,4 @@
-#Amigo Secreto
+Amigo Secreto##
 
 Nesse projeto foi construido um gerador aleatório de nomes com Javascript, nele o usuário pode adicionar os nomes dos seus amigos e sortear aleatoriamente um nome de forma simples e divertida.
 
