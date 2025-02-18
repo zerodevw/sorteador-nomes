@@ -10,5 +10,5 @@ Caso o campo de entrada esteja vazio e o usuário tente adicionar um nome, será
 Recomendações:
 Um navegador da web moderno (Chrome, Firefox, etc.).
 
-Como Rodar o Projeto
-Clone o repositório em sua máquina local:
+Como Rodar o Projeto:
+Clone o repositório em sua máquina local.
